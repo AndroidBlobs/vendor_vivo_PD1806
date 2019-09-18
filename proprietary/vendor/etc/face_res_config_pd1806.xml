@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource version="1.0">
+
+    <!-- Enroll Finish Animation -->
+    <animation anim_str="enroll_finish" name="enroll_finish" dir="enroll_finish/enroll_finish" texture="enroll_finish_anim_{n}.png" count="15" duration="32"/>
+
+</resource>

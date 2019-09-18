@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config version="1.0">
+
+    <face-config support-camera2="True" support-face-window="False" support-ir="False" support-3d-faceunlock="False" support-face-pay="False" support-mtk-new-boost="False"/>
+    <boost-param param-list="0x40800000, 0xFFF, 0x40800100, 0xFFF, 0x41800000, 0xFFF, 0x40C00000, 0x0, 0x40C1C000, 40, 0x40C20000, 30, 0x40400000, 0x1"/>
+    <camera-skip-frame project="pd1806" value="3"/>
+    <camera-fps project="pd1806" value="30"/>
+    <camera-internal-data project="pd1806" value="0"/>
+    <notify project="pd1806" value="-1"/>
+
+</config>
